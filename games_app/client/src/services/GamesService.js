@@ -22,4 +22,4 @@ const baseURL = 'http://localhost:9000/api/games/'
   }
 }
 
-export default GamesService
+export default GamesService;
